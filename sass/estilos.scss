@@ -1,0 +1,19 @@
+// Partials Index
+
+@use './partials-index/globales';
+
+@use './partials-index/responsives';
+
+@use './partials-index/header';
+
+@use './partials-index/footer';
+
+@use './partials-index/main';
+
+// Partials Inicio de Sesión
+
+@use './partials-inicio-de-sesion/formulario';
+
+// Partials Regístrate
+
+@use './partials-registrate/registro'

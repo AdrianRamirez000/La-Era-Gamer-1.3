@@ -1,0 +1,43 @@
+footer{
+    h3{
+        display:flex;
+        justify-content: center;
+        text-align: center;
+        font-size: 35px;
+        margin: 40px;
+    }
+
+    nav{
+        .iconos{
+            width: 75px;
+            margin: 20px 90px;
+        }
+    }
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.bodySesion{
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+h2{
+    padding: 20px;
+}
+form{
+    padding: 20px;
+    align-items: center;
+}
+label{
+    color:white;
+}
+input{
+    color: black;
+}  
